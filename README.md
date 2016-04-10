@@ -10,14 +10,14 @@
 
 ### Array
 
-  #### concat()
-  #### push()
-  #### every()
-  #### some()
-  #### forEach()
-  #### filter()
-  #### map()
-  #### reduce()
-  #### slice() 
-  #### splice()
+#### concat()
+#### push()
+#### every()
+#### some()
+#### forEach()
+#### filter()
+#### map()
+#### reduce()
+#### slice() 
+#### splice()
   
