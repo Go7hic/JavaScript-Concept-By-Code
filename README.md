@@ -8,7 +8,7 @@
 - [Event](#Event)
 - [闭包](#闭包)
 - [Getters and Setters](#Getters and Setters)
-
+- [Module](#Module)
 
 ### Array
 
